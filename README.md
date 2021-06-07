@@ -1,3 +1,6 @@
 # Balance-robot-simulation
-Balancing robot but matlab simulation
-โย่ๆ
+matlab simulation ของหุ่น 2 ล้อที่พี่ทำมาถึงล่าสุดครับ
+- sm_jump.slx เป็นซิมเคส กระโดดเฉยๆ
+- sm_jump_andControl เป็นซิมเคสกระโดดแล้วคุมบาลาซ์ด้วย แต่ไม่สำเร็จอ่ะ
+
+ตอนซิม ถ้าเกิดซิมไม่ผ่าน อาจเพราะลิงค์ท ี่ไปโฟลเดอร์ cad มันแตก ต้องไปเลือกลิงค์ในโฟล์เดอร์ cad ทีละตัว
